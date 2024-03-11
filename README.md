@@ -1,4 +1,3 @@
-# National Deep Inference Fabric
+# .github
 
-NDIF is a proposed project to create a national deep inference fabric to crack open the mysteries of large-scale AI.
-
+This repository holds the public profile for the ndif-team Github organization.
