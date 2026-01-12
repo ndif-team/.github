@@ -51,6 +51,16 @@ A unified interface for mechanistic interpretability of transformers. Built on N
 pip install nnterp
 ```
 
+### Workbench
+
+<p align="left">
+  <img src="https://github.com/ndif-team/workbench/blob/main/workbench_logo.png" alt="Workbench" width="120">
+</p>
+
+A UI for doing exploratory analysis on open source AI models by applying interpretability techniques. Leverages both NNsight and NDIF to provide an interactive environment for exploring LLM internals.
+
+[Use Workbench now!](https://workbench.ndif.us/) | [GitHub](https://github.com/ndif-team/workbench)
+
 ---
 
 ## Join the community
